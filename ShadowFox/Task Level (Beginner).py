@@ -6,7 +6,7 @@ print(type(pi))
 
 # Q2. Create a variable called for and assign it a value 4. See what happensand find out the reason behind the behavior that you see.
 
-# for = 4
+for = 4
 
 # Q3. Store the principal amount, rate of interest, and time in different variables and then calculate the Simple Interest for 3 years. 
 # Formula: Simple Interest = P X R X T/100
